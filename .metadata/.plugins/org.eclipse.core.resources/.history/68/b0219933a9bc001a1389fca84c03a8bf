@@ -1,0 +1,33 @@
+###################System Related########################################
+browser = Chrome
+url = http://automationpractice.com/index.php
+log4j = D:\\My Files\\My Work Activity\\TESTWorkspace\\com.Inspire_Automation\\src\\main\\java\\com\\Automation\\Config\\log4j.properties
+ReportPath =D:\\My Files\\My Work Activity\\TESTWorkspace\\com.Inspire_Automation\\src\\main\\java\\com\\Automation\\Config\\extent-config.xml
+PageLoadTimeOut=30
+
+####################### Excel Path d##################################
+ExcelPath = 
+####################### UserName/Password##################################
+Create_Email_Id = abc220@gmail.coms
+Email_Id =abc20@gmail.com
+Password =123456
+
+########################LoginPage##########################################
+AlertMessage1 = Please enter the correct User ID or Password.
+
+####################### Create User ##################################
+label = Mr.
+FirstName = FirstName
+LastName = LastName
+DateOfBirth = 1 February 1990
+Address1 = Address1 Testing Started
+Address2 = Address1 Testing Ended
+CompanyName = BadLand
+City = City  
+State = Alaska
+ZipCode = 99501
+Additional_Information = Additional_Information
+Mobile_phone = 1234567890
+
+
+

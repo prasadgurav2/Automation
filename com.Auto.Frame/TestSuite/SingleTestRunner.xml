@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression suit scenarios" verbose="1"
+	configfailurepolicy="skip">
+	<parameter name="browserName" value="Chrome">
+	</parameter>
+
+	<!-- <listeners> <listener class-name="runner.NGTestListener" /> </listeners> -->
+
+	<test name="Login Test" annotations="JDK" preserve-order="false">
+		<classes>
+			<class name="TestRunner.TestRunner" />
+		</classes>
+	</test>
+</suite>
+

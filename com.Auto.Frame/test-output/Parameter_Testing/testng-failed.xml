@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT"
+	name="Failed suite [Parameter_Testing]" parallel="classes">
+	<test thread-count="2" name="Test1(failed)" parallel="classes">
+		<parameter name="browserName" value="Chrome" />
+		<classes>
+			<class name="TestRunner.TestRunner">
+				<methods>
+					<include name="setUpClass" />
+					<include name="afterClass" />
+					<include name="beforetest" />
+					<include name="beforeClass" />
+					<include name="Teardown" />
+					<include name="feature" invocation-numbers="0 1" />
+					<include name="tearDownClass" />
+					<include name="beforeMethod" />
+				</methods>
+			</class> <!-- TestRunner.TestRunner -->
+		</classes>
+	</test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Parameter_Testing] -->

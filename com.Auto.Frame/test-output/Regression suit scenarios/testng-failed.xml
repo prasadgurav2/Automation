@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<<<<<<< HEAD
+<suite thread-count="2" configfailurepolicy="continue"
+	guice-stage="DEVELOPMENT"
+	name="Failed suite [Regression suit scenarios]" parallel="tests">
+	=======
+	<suite configfailurepolicy="continue" thread-count="2"
+		parallel="tests" name="Failed suite [Regression suit scenarios]"
+		guice-stage="DEVELOPMENT">
+		>>>>>>> c97eb411652e6987821928cc76c6e80670b4b923
+		<parameter name="browserName" value="Chrome" />
+		<test name="Login Test" preserve-order="false">
+			<classes>
+				<class name="com.Inspire_Automation.TestRunner.TestRunner" />
+			</classes>
+		</test> <!-- Login Test -->
+		<<<<<<< HEAD
+		<test name="Login Test(failed)" parallel="tests">
+			=======
+			<test parallel="tests" name="Login Test(failed)">
+				>>>>>>> c97eb411652e6987821928cc76c6e80670b4b923
+				<classes>
+					<class name="com.Inspire_Automation.TestRunner.TestRunner">
+						<methods>
+							<include name="beforetest" />
+							<include name="setUpClass" />
+							<include name="beforeClass" />
+							<include name="beforeMethod" />
+							<include name="afterClass" />
+							<include name="tearDownClass" />
+							<include name="feature" invocation-numbers="0" />
+						</methods>
+					</class> <!-- com.Inspire_Automation.TestRunner.TestRunner -->
+				</classes>
+			</test> <!-- Login Test(failed) -->
+	</suite> <!-- Failed suite [Regression suit scenarios] -->

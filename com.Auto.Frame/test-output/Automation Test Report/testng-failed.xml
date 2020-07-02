@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT"
+	name="Failed suite [Automation Test Report]">
+	<test thread-count="5" name="Automation Test Report(failed)">
+		<classes>
+			<class name="TestRunner.TestRunner">
+				<methods>
+					<include name="setUpClass" />
+					<include name="afterClass" />
+					<include name="beforeClass" />
+					<include name="Teardown" />
+					<include name="feature" />
+					<include name="tearDownClass" />
+					<include name="beforeMethod" />
+				</methods>
+			</class> <!-- TestRunner.TestRunner -->
+		</classes>
+	</test> <!-- Automation Test Report(failed) -->
+</suite> <!-- Failed suite [Automation Test Report] -->

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite thread-count="1" name="Parameter_Testing"
+	parallel="classes">
+
+	<test thread-count="1" name="Test1" parallel="classes">
+		<parameter name="browserName" value="Chrome">
+		</parameter>
+		<classes>
+			<class name="TestRunner.TestRunner" />
+		</classes>
+
+	</test>  <!-- Test -->
+
+	<test thread-count="1" name="Test2" parallel="classes">
+		<parameter name="browserName" value="FF">
+		</parameter>
+		<classes>
+			<class name="TestRunner.TestRunner" />
+		</classes>
+
+	</test>  <!-- Test -->
+
+</suite>
+
+<!-- Parameter_Testing -->

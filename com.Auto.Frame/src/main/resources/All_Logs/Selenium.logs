@@ -1,0 +1,984 @@
+2020-06-171 12:06:322  INFO MasterHelper:1273 - element found...
+2020-06-171 12:06:490  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 12:06:339  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-171 12:06:202  INFO MasterHelper:1273 - element found...
+2020-06-171 12:06:279  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 12:06:438  INFO MasterHelper:1273 - element found...person
+2020-06-171 12:06:523  INFO MasterHelper:1167 - person is dispalyed
+2020-06-171 12:06:150  INFO MasterHelper:1273 - element found...Profile
+2020-06-171 12:06:252 ERROR MasterHelper:1169 - Element not found org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//app-notification-projectroleaccess//mat-cell/div"}
+  (Session info: chrome=83.0.4103.106)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PRASAD', ip: '192.168.43.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SANVEO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9274d175529a719ad8f3c4d2b0112289
+*** Element info: {Using=xpath, value=//app-notification-projectroleaccess//mat-cell/div}
+2020-06-171 12:06:383  INFO MasterHelper:1273 - element found...clear
+2020-06-171 12:06:365  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-171 13:06:318  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:432  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:482  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-171 13:06:511  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:601  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:726  INFO MasterHelper:1273 - element found...person
+2020-06-171 13:06:814  INFO MasterHelper:1167 - person is dispalyed
+2020-06-171 13:06:61  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:139  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:682  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-171 13:06:317  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:408  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:122  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-171 13:06:729  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:923  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:520  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-171 13:06:888  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:953  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:445  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-171 13:06:754  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:884  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:268  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-171 13:06:361  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:433  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:508  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-171 13:06:86  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-171 13:06:98  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (f9e59a4b5ae3cbbe830db2f0b526cc65)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-171 13:06:299  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (f9e59a4b5ae3cbbe830db2f0b526cc65)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-171 13:06:212  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:370  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:940  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-171 13:06:507  INFO MasterHelper:1273 - element found...
+2020-06-171 13:06:588  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 13:06:127  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-171 13:06:445  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-171 13:06:457  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (119d850c1aa5b37e544764c37dd96636)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-171 13:06:661  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (119d850c1aa5b37e544764c37dd96636)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-171 15:06:411  INFO MasterHelper:1273 - element found...
+2020-06-171 15:06:529  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 15:06:302  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-171 15:06:215  INFO MasterHelper:1273 - element found...
+2020-06-171 15:06:302  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 15:06:743  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-171 15:06:760  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-171 15:06:771  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (e5fd412047314b67289143252bd7e85c)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-171 15:06:996  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (e5fd412047314b67289143252bd7e85c)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-171 15:06:486  INFO MasterHelper:1273 - element found...
+2020-06-171 15:06:570  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 15:06:805  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-171 15:06:426  INFO MasterHelper:1273 - element found...
+2020-06-171 15:06:492  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 15:06:127  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-171 15:06:769  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-171 15:06:779  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (c7c917b7e4806e971e2a3cd6971a8415)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-171 15:06:980  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (c7c917b7e4806e971e2a3cd6971a8415)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-171 15:06:620  INFO MasterHelper:1273 - element found...
+2020-06-171 15:06:706  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 15:06:168  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-171 15:06:833  INFO MasterHelper:1273 - element found...
+2020-06-171 15:06:903  INFO MasterHelper:1167 -  is dispalyed
+2020-06-171 15:06:483  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-171 15:06:580  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-171 15:06:590  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (c0665c065199bee7d7b43147ccd02ece)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-171 15:06:790  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (c0665c065199bee7d7b43147ccd02ece)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-172 17:06:659  INFO MasterHelper:1273 - element found...
+2020-06-172 17:06:787  INFO MasterHelper:1167 -  is dispalyed
+2020-06-172 17:06:844  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-172 17:06:559  INFO MasterHelper:1273 - element found...
+2020-06-172 17:06:643  INFO MasterHelper:1167 -  is dispalyed
+2020-06-172 17:06:68  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-172 17:06:344  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-172 17:06:354  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (001cb2c4fed6b6833a333bbe80deba36)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-172 17:06:557  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (001cb2c4fed6b6833a333bbe80deba36)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-172 18:06:851  INFO MasterHelper:1273 - element found...
+2020-06-172 18:06:956  INFO MasterHelper:1167 -  is dispalyed
+2020-06-172 18:06:395  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-172 18:06:807  INFO MasterHelper:1273 - element found...
+2020-06-172 18:06:883  INFO MasterHelper:1167 -  is dispalyed
+2020-06-172 18:06:413  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-172 18:06:119  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-172 18:06:130  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (7581348dca1b2e66485b6ce1d90da47e)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-172 18:06:420  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (7581348dca1b2e66485b6ce1d90da47e)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-172 18:06:558  INFO MasterHelper:1273 - element found...
+2020-06-172 18:06:657  INFO MasterHelper:1167 -  is dispalyed
+2020-06-172 18:06:558  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-172 18:06:286  INFO MasterHelper:1273 - element found...
+2020-06-172 18:06:393  INFO MasterHelper:1167 -  is dispalyed
+2020-06-172 18:06:431  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-172 18:06:597  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-172 18:06:609  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (d825aac8c1e3ad5b357eb08179531a57)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-172 18:06:878  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (d825aac8c1e3ad5b357eb08179531a57)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-172 19:06:997  INFO MasterHelper:1273 - element found...
+2020-06-172 19:06:73  INFO MasterHelper:1167 -  is dispalyed
+2020-06-172 19:06:149  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-172 19:06:181  INFO MasterHelper:1273 - element found...
+2020-06-172 19:06:290  INFO MasterHelper:1167 -  is dispalyed
+2020-06-172 19:06:04  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-172 19:06:407  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-172 19:06:420  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (1a015efc0a202a8566be1e270b211094)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-172 19:06:672  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (1a015efc0a202a8566be1e270b211094)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 12:06:922  INFO MasterHelper:1273 - element found...
+2020-06-177 12:06:03  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 12:06:736  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 12:06:418  INFO MasterHelper:1273 - element found...
+2020-06-177 12:06:495  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 12:06:321  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 14:06:851  INFO MasterHelper:1273 - element found...
+2020-06-177 14:06:983  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 14:06:665  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 14:06:177  INFO MasterHelper:1273 - element found...
+2020-06-177 14:06:234  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 14:06:252  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 14:06:927  INFO MasterHelper:1273 - element found...
+2020-06-177 14:06:998  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 14:06:614  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 14:06:699  INFO MasterHelper:1273 - element found...
+2020-06-177 14:06:759  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:103  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 15:06:03  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:125  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:374  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 15:06:227  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:283  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:490  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 15:06:51  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-177 15:06:63  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (0f0bbb5084825feffb90327a2dda425a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 15:06:265  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (0f0bbb5084825feffb90327a2dda425a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 15:06:766  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:896  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:146  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 15:06:57  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:115  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:472  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 15:06:98  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-177 15:06:107  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (cbc967072561c132a2ba631c3e8c6bc8)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 15:06:265  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (cbc967072561c132a2ba631c3e8c6bc8)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 15:06:50  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:132  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:329  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 15:06:739  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:830  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:241  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 15:06:111  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-177 15:06:120  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (3e48b50393a0c45a0f4ce7401d7ca80a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 15:06:288  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (3e48b50393a0c45a0f4ce7401d7ca80a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 15:06:787  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:858  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:821  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 15:06:423  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:482  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:325  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 15:06:808  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-177 15:06:818  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (6471bf19fc9aed833516b20369dee84d)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 15:06:974  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (6471bf19fc9aed833516b20369dee84d)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 15:06:288  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:407  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:822  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 15:06:837  INFO MasterHelper:1273 - element found...
+2020-06-177 15:06:898  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 15:06:352  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 15:06:722  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-177 15:06:731  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (077c2e9d6f0b22c93d8cf220c6348fd6)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 15:06:892  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (077c2e9d6f0b22c93d8cf220c6348fd6)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 16:06:521  INFO MasterHelper:1273 - element found...
+2020-06-177 16:06:600  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 16:06:443  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 16:06:583  INFO MasterHelper:1273 - element found...
+2020-06-177 16:06:645  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 16:06:212  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 16:06:05  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-177 16:06:15  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (ce45e8d60dd534f4ed2c9fb48b0bf3d5)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 16:06:202  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (ce45e8d60dd534f4ed2c9fb48b0bf3d5)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 17:06:167  INFO MasterHelper:1273 - element found...
+2020-06-177 17:06:246  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 17:06:770  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 17:06:964  INFO MasterHelper:1273 - element found...
+2020-06-177 17:06:30  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 17:06:63  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 17:06:321  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-177 17:06:330  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (3fc9c31ff81afdfb7761c1a354e7a3e5)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 17:06:475  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (3fc9c31ff81afdfb7761c1a354e7a3e5)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 17:06:628  INFO MasterHelper:1273 - element found...
+2020-06-177 17:06:701  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 17:06:797  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 17:06:281  INFO MasterHelper:1273 - element found...
+2020-06-177 17:06:349  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 17:06:603  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 17:06:127  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-177 17:06:137  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (db46180ced03f1955119462f1aed2aad)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 17:06:290  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (db46180ced03f1955119462f1aed2aad)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 18:06:804  INFO MasterHelper:1273 - element found...
+2020-06-177 18:06:933  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 18:06:486  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 18:06:146  INFO MasterHelper:1273 - element found...
+2020-06-177 18:06:213  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 18:06:222  INFO MasterHelper:1273 - element found...
+2020-06-177 18:06:381  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 18:06:34  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 18:06:12  INFO MasterHelper:1273 - element found...
+2020-06-177 18:06:121  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 18:06:800  INFO MasterHelper:1273 - element found...
+2020-06-177 18:06:929  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 18:06:768  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-177 18:06:233  INFO MasterHelper:1273 - element found...
+2020-06-177 18:06:293  INFO MasterHelper:1167 -  is dispalyed
+2020-06-177 18:06:390  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-177 18:06:383  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-177 18:06:393  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (35852e7d6bd7790364eed9b0e68512f8)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-177 18:06:539  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (35852e7d6bd7790364eed9b0e68512f8)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 09:06:297  INFO MasterHelper:1273 - element found...
+2020-06-178 09:06:415  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 09:06:781  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-178 09:06:299  INFO MasterHelper:1273 - element found...
+2020-06-178 09:06:361  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 09:06:840  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-178 09:06:107  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-178 09:06:119  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (2f269ac64bbb71963aa917e99b0cd421)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 09:06:348  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (2f269ac64bbb71963aa917e99b0cd421)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 09:06:848  INFO MasterHelper:1273 - element found...
+2020-06-178 09:06:920  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:169  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-178 10:06:889  INFO MasterHelper:1273 - element found...
+2020-06-178 10:06:962  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:506  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-178 10:06:462  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-178 10:06:471  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (058497569d49d30c49b9170083fa4b80)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 10:06:659  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (058497569d49d30c49b9170083fa4b80)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 10:06:62  INFO MasterHelper:1273 - element found...
+2020-06-178 10:06:178  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:353  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-178 10:06:283  INFO MasterHelper:1273 - element found...
+2020-06-178 10:06:368  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:173  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-178 10:06:220  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-178 10:06:235  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (3e0d6aa3ed8d68a85410d455db30d852)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 10:06:581  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (3e0d6aa3ed8d68a85410d455db30d852)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 10:06:846  INFO MasterHelper:1273 - element found...
+2020-06-178 10:06:927  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:991  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-178 10:06:729  INFO MasterHelper:1273 - element found...
+2020-06-178 10:06:821  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:302  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-178 10:06:420  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-178 10:06:431  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (a5560b686ad4f6b753e4e5e4093c4478)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 10:06:619  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (a5560b686ad4f6b753e4e5e4093c4478)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 10:06:210  INFO MasterHelper:1273 - element found...
+2020-06-178 10:06:307  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:958  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-178 10:06:668  INFO MasterHelper:1273 - element found...
+2020-06-178 10:06:754  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:128  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-178 10:06:693  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-178 10:06:705  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (55803e4645f14249e4b8b2b4855e04b4)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 10:06:929  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (55803e4645f14249e4b8b2b4855e04b4)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-178 10:06:462  INFO MasterHelper:1273 - element found...
+2020-06-178 10:06:559  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:445  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-178 10:06:106  INFO MasterHelper:1273 - element found...
+2020-06-178 10:06:178  INFO MasterHelper:1167 -  is dispalyed
+2020-06-178 10:06:27  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 11:06:839  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:911  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:131  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 11:06:761  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:820  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:847  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 11:06:454  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 11:06:466  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (1df9c824bfe611118735d3f4e7e46d5a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:659  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (1df9c824bfe611118735d3f4e7e46d5a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:949  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:49  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:394  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 11:06:73  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:153  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:179  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 11:06:395  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 11:06:404  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (224dd7bf37c5dea920e13014289ab801)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:591  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (224dd7bf37c5dea920e13014289ab801)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:68  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:145  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:388  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 11:06:75  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:131  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:557  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 11:06:908  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 11:06:917  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (34333ab7e1fa34b374f8bba7614e502c)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:94  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (34333ab7e1fa34b374f8bba7614e502c)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:845  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:936  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:916  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 11:06:505  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:613  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:984  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 11:06:794  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 11:06:805  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (205d7121289924083fdc71df99e3a7a9)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:52  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (205d7121289924083fdc71df99e3a7a9)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:906  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:989  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:579  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 11:06:379  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:458  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:506  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 11:06:128  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 11:06:140  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (18f88fad09077874dfbb200d840f05cd)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:324  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (18f88fad09077874dfbb200d840f05cd)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:349  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:417  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:452  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 11:06:07  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:71  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:313  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 11:06:696  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 11:06:706  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (783a4c0d3009da0bab7ff565501f7e33)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:881  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (783a4c0d3009da0bab7ff565501f7e33)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:351  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:429  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:540  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 11:06:977  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:35  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:320  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 11:06:899  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 11:06:909  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (22764987f1537d68c099161e8496194a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:146  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (22764987f1537d68c099161e8496194a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:340  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:408  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:818  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 11:06:262  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:315  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:173  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 11:06:495  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 11:06:507  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (145a09c7a96500056243966ddf1349e1)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:677  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (145a09c7a96500056243966ddf1349e1)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 11:06:248  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:314  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 11:06:373  INFO MasterHelper:1273 - element found...
+2020-06-182 11:06:451  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 12:06:959  INFO MasterHelper:1273 - element found...
+2020-06-182 12:06:26  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 12:06:759  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 12:06:187  INFO MasterHelper:1273 - element found...
+2020-06-182 12:06:249  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 12:06:202  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 12:06:15  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 12:06:29  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (924dfe3306e0ca59c764e3a246c3c3da)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 12:06:186  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (924dfe3306e0ca59c764e3a246c3c3da)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:448  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:528  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:344  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 13:06:837  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:913  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:02  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 13:06:56  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 13:06:67  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (1e3972ca51c4f049783e724631dfe7ef)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:252  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (1e3972ca51c4f049783e724631dfe7ef)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:35  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:141  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:532  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 13:06:50  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:109  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:50  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 13:06:426  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 13:06:436  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (19c1393893c7d42c4577769ba6a5af1f)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:605  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (19c1393893c7d42c4577769ba6a5af1f)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:262  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:354  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:385  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 13:06:817  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:870  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:772  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 13:06:719  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 13:06:729  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (d3405b9295432b255037ef077e74e909)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:872  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (d3405b9295432b255037ef077e74e909)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:433  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:517  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:836  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 13:06:359  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:440  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:803  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 13:06:556  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 13:06:566  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (eb97b6061d8a3d0bac55a083d1a61bd8)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:702  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (eb97b6061d8a3d0bac55a083d1a61bd8)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:270  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:379  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:365  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:435  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:79  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:147  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:829  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 13:06:275  INFO MasterHelper:1273 - element found...
+2020-06-182 13:06:325  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 13:06:142  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 13:06:580  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 13:06:590  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (34b51f7978f0a412c4031ba2e44feb28)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 13:06:755  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (34b51f7978f0a412c4031ba2e44feb28)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 14:06:263  INFO MasterHelper:1273 - element found...
+2020-06-182 14:06:348  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 14:06:542  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 14:06:920  INFO MasterHelper:1273 - element found...
+2020-06-182 14:06:975  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 14:06:804  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 14:06:486  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 14:06:496  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (b8e91712f49ad254e78379e24c7fee87)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 14:06:722  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (b8e91712f49ad254e78379e24c7fee87)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 14:06:219  INFO MasterHelper:1273 - element found...
+2020-06-182 14:06:360  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 14:06:339  INFO MasterHelper:1273 - element found...
+2020-06-182 14:06:414  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 14:06:382  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 14:06:914  INFO MasterHelper:1273 - element found...
+2020-06-182 14:06:968  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 14:06:831  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 14:06:637  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 14:06:647  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (70a5d77b926ef976b0017cf67aa5deb9)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 14:06:806  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (70a5d77b926ef976b0017cf67aa5deb9)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 15:06:426  INFO MasterHelper:1273 - element found...
+2020-06-182 15:06:510  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 15:06:128  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 15:06:753  INFO MasterHelper:1273 - element found...
+2020-06-182 15:06:809  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 15:06:260  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 15:06:447  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 15:06:456  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (15e381802de8552f0ae5ccd29e8e66b7)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 15:06:639  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (15e381802de8552f0ae5ccd29e8e66b7)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 15:06:154  INFO MasterHelper:1273 - element found...
+2020-06-182 15:06:255  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 15:06:657  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 15:06:220  INFO MasterHelper:1273 - element found...
+2020-06-182 15:06:300  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 15:06:275  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 15:06:768  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 15:06:780  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (8a462dce55357022ff2a193244e8b90f)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 15:06:959  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (8a462dce55357022ff2a193244e8b90f)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 15:06:317  INFO MasterHelper:1273 - element found...
+2020-06-182 15:06:420  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 15:06:972  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 15:06:549  INFO MasterHelper:1273 - element found...
+2020-06-182 15:06:607  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 15:06:574  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 15:06:964  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 15:06:973  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (73b87f4e5aeeb8b465cb2b4def37d6a7)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 15:06:242  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (73b87f4e5aeeb8b465cb2b4def37d6a7)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 15:06:745  INFO MasterHelper:1273 - element found...
+2020-06-182 15:06:889  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 15:06:883  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 15:06:517  INFO MasterHelper:1273 - element found...
+2020-06-182 15:06:572  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 15:06:495  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 15:06:503  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 15:06:515  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (517acdd853ba2ec8d7191ff6d8d379d8)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 15:06:701  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (517acdd853ba2ec8d7191ff6d8d379d8)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:585  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:647  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:868  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 16:06:382  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:436  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:909  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 16:06:823  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 16:06:834  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (9a84c7b6bcac824161a96df952afac43)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:998  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (9a84c7b6bcac824161a96df952afac43)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:851  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:913  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:524  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 16:06:900  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:952  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:875  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 16:06:874  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 16:06:883  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (f35ce06999ed2abaef4f6e3af5962306)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:55  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (f35ce06999ed2abaef4f6e3af5962306)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:541  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:623  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:989  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 16:06:413  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:463  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:290  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 16:06:580  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 16:06:588  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (3cc2e56099c63c1089428ce016e57774)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:727  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (3cc2e56099c63c1089428ce016e57774)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:447  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:513  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:313  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 16:06:365  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:420  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:246  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 16:06:597  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 16:06:609  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (59ad8cbdfd481a23e6481c51fce71ff6)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:837  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (59ad8cbdfd481a23e6481c51fce71ff6)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:782  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:892  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:374  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 16:06:804  INFO MasterHelper:1273 - element found...
+2020-06-182 16:06:856  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 16:06:737  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 16:06:248  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 16:06:259  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (5c2a5a8b0edf1ac80a2254c57acbb76c)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 16:06:548  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (5c2a5a8b0edf1ac80a2254c57acbb76c)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 17:06:46  INFO MasterHelper:1273 - element found...
+2020-06-182 17:06:141  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 17:06:803  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 17:06:280  INFO MasterHelper:1273 - element found...
+2020-06-182 17:06:360  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 17:06:606  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 17:06:791  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 17:06:804  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (e4cd2ab9156c5dbb9417d4a1fa344945)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 17:06:19  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (e4cd2ab9156c5dbb9417d4a1fa344945)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 17:06:911  INFO MasterHelper:1273 - element found...
+2020-06-182 17:06:973  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 17:06:417  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 17:06:848  INFO MasterHelper:1273 - element found...
+2020-06-182 17:06:899  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 17:06:691  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 17:06:436  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 17:06:444  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (e1ff5f415e3a1d5b53a5cf6492cace95)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 17:06:588  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (e1ff5f415e3a1d5b53a5cf6492cace95)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 17:06:294  INFO MasterHelper:1273 - element found...
+2020-06-182 17:06:373  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 17:06:994  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 17:06:423  INFO MasterHelper:1273 - element found...
+2020-06-182 17:06:487  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 17:06:247  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 17:06:355  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 17:06:363  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (cd1e81e467f2c639ab6a489d37ecb420)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 17:06:515  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (cd1e81e467f2c639ab6a489d37ecb420)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 17:06:479  INFO MasterHelper:1273 - element found...
+2020-06-182 17:06:549  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 17:06:724  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 17:06:204  INFO MasterHelper:1273 - element found...
+2020-06-182 17:06:264  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 17:06:208  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 17:06:755  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 17:06:767  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (8899105dc95b1cbe29e6e071788c3bac)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 17:06:956  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (8899105dc95b1cbe29e6e071788c3bac)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 18:06:367  INFO MasterHelper:1273 - element found...
+2020-06-182 18:06:430  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 18:06:407  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 18:06:797  INFO MasterHelper:1273 - element found...
+2020-06-182 18:06:858  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 18:06:656  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 18:06:870  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 18:06:879  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (bcc1647d93d9c88af6da14120674f2e0)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 18:06:34  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (bcc1647d93d9c88af6da14120674f2e0)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 18:06:136  INFO MasterHelper:1273 - element found...
+2020-06-182 18:06:212  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 18:06:435  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 18:06:35  INFO MasterHelper:1273 - element found...
+2020-06-182 18:06:94  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 18:06:802  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 18:06:190  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 18:06:201  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (bba6cdb45e22d2aa8f653c91c026be39)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 18:06:384  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (bba6cdb45e22d2aa8f653c91c026be39)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 18:06:752  INFO MasterHelper:1273 - element found...
+2020-06-182 18:06:819  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 18:06:901  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 18:06:423  INFO MasterHelper:1273 - element found...
+2020-06-182 18:06:484  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 18:06:487  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 18:06:887  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 18:06:898  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (b867ff314cda2075dbd45529e3793e98)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 18:06:99  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (b867ff314cda2075dbd45529e3793e98)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 18:06:222  INFO MasterHelper:1273 - element found...
+2020-06-182 18:06:311  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 18:06:612  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 18:06:580  INFO MasterHelper:1273 - element found...
+2020-06-182 18:06:637  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 18:06:588  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 18:06:858  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 18:06:869  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (9d59ab366375a0cc21d476111324433a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 18:06:77  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (9d59ab366375a0cc21d476111324433a)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 19:06:779  INFO MasterHelper:1273 - element found...
+2020-06-182 19:06:881  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 19:06:474  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 19:06:42  INFO MasterHelper:1273 - element found...
+2020-06-182 19:06:99  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 19:06:242  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 19:06:212  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 19:06:222  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (51af1cf6962ffbe1d3351e44ef74f9f1)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 19:06:414  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (51af1cf6962ffbe1d3351e44ef74f9f1)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 19:06:308  INFO MasterHelper:1273 - element found...
+2020-06-182 19:06:407  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 19:06:142  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 19:06:597  INFO MasterHelper:1273 - element found...
+2020-06-182 19:06:659  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 19:06:573  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 19:06:872  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 19:06:883  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (7daea186ea50e57ca5e287e3dc463c20)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 19:06:71  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (7daea186ea50e57ca5e287e3dc463c20)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:909  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:980  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:828  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 20:06:344  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:426  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:640  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 20:06:281  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 20:06:291  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (aa8a0b282eef66c83d1adbe4bcc79901)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:474  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (aa8a0b282eef66c83d1adbe4bcc79901)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:283  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:355  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:475  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 20:06:533  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:589  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:266  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 20:06:369  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 20:06:380  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (875cbe7e0cd6efa7b245518a0d432cd7)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:559  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (875cbe7e0cd6efa7b245518a0d432cd7)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:753  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:824  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:274  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 20:06:799  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:856  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:824  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 20:06:791  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 20:06:800  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (a7a29fba456498d7f3b791da40d91019)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:969  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (a7a29fba456498d7f3b791da40d91019)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:38  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:122  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:715  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 20:06:228  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:302  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:274  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 20:06:590  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 20:06:601  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (6c5f99d188fa8d26736c4c00a8a675c1)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:787  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (6c5f99d188fa8d26736c4c00a8a675c1)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:779  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:850  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:121  INFO MasterHelper:1273 - element found...YOUR PROJECTS
+2020-06-182 20:06:541  INFO MasterHelper:1273 - element found...
+2020-06-182 20:06:598  INFO MasterHelper:1167 -  is dispalyed
+2020-06-182 20:06:497  INFO MasterHelper:1273 - element found...Latest Versions
+2020-06-182 20:06:989  INFO MasterHelper:948 - window.scrollTo(arguments[0],arguments[1])
+2020-06-182 20:06:999  INFO MasterHelper:954 - [[ChromeDriver: chrome on WINDOWS (74df0e4405c92dc7b50c3f972a346733)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-06-182 20:06:164  INFO MasterHelper:960 - [[ChromeDriver: chrome on WINDOWS (74df0e4405c92dc7b50c3f972a346733)] -> xpath: //div/span[contains(text(),'Conduit Raceway')]]
+2020-07-184 21:07:995  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (64e1779578daee4609ef6f79cd8b52d5)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 21:07:319  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7c808a97bc47353c00a8068e4c34533b)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 21:07:241  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7c808a97bc47353c00a8068e4c34533b)] -> xpath: //h3[contains (text(),'Create an account')]]
+2020-07-184 21:07:484  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7c808a97bc47353c00a8068e4c34533b)] -> xpath: //h1[contains(text(),'Create an account')]]
+2020-07-184 21:07:533  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7c808a97bc47353c00a8068e4c34533b)] -> xpath: //h1[contains(text(),'Create an account')]]
+2020-07-184 21:07:535  INFO CreateUserPage:104 - true
+2020-07-184 21:07:536  INFO CreateUserPage:105 - User Is On Create login Page
+2020-07-184 21:07:711  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7c808a97bc47353c00a8068e4c34533b)] -> xpath: //input[@id='customer_firstname']]
+2020-07-184 21:07:948  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7c808a97bc47353c00a8068e4c34533b)] -> xpath: //input[@id='customer_lastname']]
+2020-07-184 21:07:242  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7c808a97bc47353c00a8068e4c34533b)] -> xpath: //input[@id='customer_lastname']]
+2020-07-184 21:07:912  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7c808a97bc47353c00a8068e4c34533b)] -> xpath: //input[@name='address1']]
+2020-07-184 21:07:230  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7c808a97bc47353c00a8068e4c34533b)] -> xpath: //input[@name='address2']]
+2020-07-184 21:07:475  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (80bbe62ecd5c514c8d08ad6a63a1ce2d)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 21:07:514  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (df022369535b5319dec24976076f2b0e)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 21:07:505  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (df022369535b5319dec24976076f2b0e)] -> xpath: //h3[contains (text(),'Create an account')]]
+2020-07-184 21:07:157  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (df022369535b5319dec24976076f2b0e)] -> xpath: //h1[contains(text(),'Create an account')]]
+2020-07-184 21:07:210  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (df022369535b5319dec24976076f2b0e)] -> xpath: //h1[contains(text(),'Create an account')]]
+2020-07-184 21:07:211  INFO CreateUserPage:104 - true
+2020-07-184 21:07:211  INFO CreateUserPage:105 - User Is On Create login Page
+2020-07-184 21:07:439  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (df022369535b5319dec24976076f2b0e)] -> xpath: //input[@id='customer_firstname']]
+2020-07-184 21:07:819  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (df022369535b5319dec24976076f2b0e)] -> xpath: //input[@id='customer_lastname']]
+2020-07-184 21:07:109  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (df022369535b5319dec24976076f2b0e)] -> xpath: //input[@id='customer_lastname']]
+2020-07-184 21:07:894  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (df022369535b5319dec24976076f2b0e)] -> xpath: //input[@name='address1']]
+2020-07-184 21:07:280  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (df022369535b5319dec24976076f2b0e)] -> xpath: //input[@name='address2']]
+2020-07-184 22:07:28  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 22:07:910  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 22:07:517  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 22:07:529  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 22:07:752  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 22:07:656  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 22:07:704  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 22:07:112  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 22:07:197  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 22:07:205  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 22:07:290  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 22:07:158  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 22:07:443  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f7f061533b202b272de8fe0bcd4b8de1)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 22:07:264  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (50accbee10b1979a3a1382170f9b2176)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 22:07:835  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (50accbee10b1979a3a1382170f9b2176)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 22:07:185  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 22:07:200  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (50accbee10b1979a3a1382170f9b2176)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 22:07:473  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (50accbee10b1979a3a1382170f9b2176)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 22:07:379  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (50accbee10b1979a3a1382170f9b2176)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 22:07:455  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (50accbee10b1979a3a1382170f9b2176)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 22:07:100  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 22:07:201  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 22:07:213  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (50accbee10b1979a3a1382170f9b2176)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 22:07:312  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (50accbee10b1979a3a1382170f9b2176)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 22:07:251  INFO MasterHelper:842 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[contains(text(),'Proceed to checkout')])[2]"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PRASAD', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SANVEO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52848}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 50accbee10b1979a3a1382170f9b2176
+*** Element info: {Using=xpath, value=(//span[contains(text(),'Proceed to checkout')])[2]}
+2020-07-184 22:07:447  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (8dc4d14c690b9d8cd537c14fb84762be)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 22:07:227  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (8dc4d14c690b9d8cd537c14fb84762be)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 22:07:581  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (786d2a65a12d37f474141137f8e70d5c)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 22:07:162  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (786d2a65a12d37f474141137f8e70d5c)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 22:07:725  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 22:07:742  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (786d2a65a12d37f474141137f8e70d5c)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 22:07:17  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (786d2a65a12d37f474141137f8e70d5c)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 22:07:882  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (786d2a65a12d37f474141137f8e70d5c)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 22:07:925  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (786d2a65a12d37f474141137f8e70d5c)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 22:07:926  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 22:07:11  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 22:07:18  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (786d2a65a12d37f474141137f8e70d5c)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 22:07:317  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (786d2a65a12d37f474141137f8e70d5c)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 22:07:191  INFO MasterHelper:842 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[contains(text(),'Proceed to checkout')])[2]"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PRASAD', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SANVEO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61907}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 786d2a65a12d37f474141137f8e70d5c
+*** Element info: {Using=xpath, value=(//span[contains(text(),'Proceed to checkout')])[2]}
+2020-07-184 22:07:619  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (40eb22e7a4f7f046290b7fcdca6671e1)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 22:07:884  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (40eb22e7a4f7f046290b7fcdca6671e1)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 22:07:255  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 22:07:281  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (40eb22e7a4f7f046290b7fcdca6671e1)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 22:07:557  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (40eb22e7a4f7f046290b7fcdca6671e1)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 22:07:589  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (40eb22e7a4f7f046290b7fcdca6671e1)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 22:07:818  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (40eb22e7a4f7f046290b7fcdca6671e1)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 22:07:925  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 22:07:16  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 22:07:25  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (40eb22e7a4f7f046290b7fcdca6671e1)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 22:07:114  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (40eb22e7a4f7f046290b7fcdca6671e1)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 22:07:98  INFO MasterHelper:842 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[contains(text(),'Proceed to checkout')])[2]"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PRASAD', ip: '192.168.43.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SANVEO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63497}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 40eb22e7a4f7f046290b7fcdca6671e1
+*** Element info: {Using=xpath, value=(//span[contains(text(),'Proceed to checkout')])[2]}
+2020-07-184 23:07:891  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (5bacd562d17ce22c35ea1d1e6a99d9d3)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:479  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (5bacd562d17ce22c35ea1d1e6a99d9d3)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 23:07:665  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:680  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (5bacd562d17ce22c35ea1d1e6a99d9d3)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:932  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (5bacd562d17ce22c35ea1d1e6a99d9d3)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:788  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (5bacd562d17ce22c35ea1d1e6a99d9d3)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 23:07:833  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (5bacd562d17ce22c35ea1d1e6a99d9d3)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 23:07:281  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 23:07:354  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:367  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (5bacd562d17ce22c35ea1d1e6a99d9d3)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:451  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (5bacd562d17ce22c35ea1d1e6a99d9d3)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:859  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (5cc8f68572c0ce7c2197ed4eb455bb8c)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:858  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (5cc8f68572c0ce7c2197ed4eb455bb8c)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 23:07:777  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:786  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (5cc8f68572c0ce7c2197ed4eb455bb8c)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:07  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (5cc8f68572c0ce7c2197ed4eb455bb8c)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:880  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (5cc8f68572c0ce7c2197ed4eb455bb8c)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 23:07:925  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (5cc8f68572c0ce7c2197ed4eb455bb8c)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 23:07:345  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 23:07:422  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:431  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (5cc8f68572c0ce7c2197ed4eb455bb8c)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:528  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (5cc8f68572c0ce7c2197ed4eb455bb8c)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:410  INFO MasterHelper:842 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[contains(text(),'Proceed to checkout')])[2]"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PRASAD', ip: '192.168.43.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SANVEO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64648}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 5cc8f68572c0ce7c2197ed4eb455bb8c
+*** Element info: {Using=xpath, value=(//span[contains(text(),'Proceed to checkout')])[2]}
+2020-07-184 23:07:650  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7aa104ec42bd81cf62d0123ecbf5a6c6)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:88  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7aa104ec42bd81cf62d0123ecbf5a6c6)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 23:07:380  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:399  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (7aa104ec42bd81cf62d0123ecbf5a6c6)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:684  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (7aa104ec42bd81cf62d0123ecbf5a6c6)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:581  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7aa104ec42bd81cf62d0123ecbf5a6c6)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 23:07:678  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (7aa104ec42bd81cf62d0123ecbf5a6c6)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 23:07:115  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 23:07:193  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:204  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (7aa104ec42bd81cf62d0123ecbf5a6c6)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:313  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (7aa104ec42bd81cf62d0123ecbf5a6c6)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:198  INFO MasterHelper:842 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[contains(text(),'Proceed to checkout')])[2]"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PRASAD', ip: '192.168.43.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SANVEO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:65225}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 7aa104ec42bd81cf62d0123ecbf5a6c6
+*** Element info: {Using=xpath, value=(//span[contains(text(),'Proceed to checkout')])[2]}
+2020-07-184 23:07:224  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f972cae14eba57c9ab2fbaed1d40f2db)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:981  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f972cae14eba57c9ab2fbaed1d40f2db)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 23:07:746  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:772  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (f972cae14eba57c9ab2fbaed1d40f2db)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:70  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (f972cae14eba57c9ab2fbaed1d40f2db)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:986  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f972cae14eba57c9ab2fbaed1d40f2db)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 23:07:13  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (f972cae14eba57c9ab2fbaed1d40f2db)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 23:07:416  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 23:07:514  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:522  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (f972cae14eba57c9ab2fbaed1d40f2db)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:619  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (f972cae14eba57c9ab2fbaed1d40f2db)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:490  INFO MasterHelper:842 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[contains(text(),'Proceed to checkout')])[2]"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PRASAD', ip: '192.168.43.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SANVEO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49243}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f972cae14eba57c9ab2fbaed1d40f2db
+*** Element info: {Using=xpath, value=(//span[contains(text(),'Proceed to checkout')])[2]}
+2020-07-184 23:07:323  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (32869c9495dc34c107524b19e7a7c28a)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:145  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (32869c9495dc34c107524b19e7a7c28a)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 23:07:58  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:28  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 23:07:351  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:362  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:598  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:497  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 23:07:533  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 23:07:943  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 23:07:13  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:23  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:124  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:998  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:36  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:45  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:611  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:664  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:704  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:712  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (49781062b751b918fac443ccf214016a)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:106  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:943  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 23:07:440  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:452  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:788  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:676  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 23:07:822  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 23:07:343  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 23:07:424  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:433  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:536  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:429  INFO MasterHelper:842 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[contains(text(),'Proceed to checkout')])[2]"}
+  (Session info: chrome=83.0.4103.116)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PRASAD', ip: '192.168.43.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\Users\SANVEO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49988}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 158db96a140de89d2c168c9c3606c0f2
+*** Element info: {Using=xpath, value=(//span[contains(text(),'Proceed to checkout')])[2]}
+2020-07-184 23:07:849  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:859  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-184 23:07:579  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (158db96a140de89d2c168c9c3606c0f2)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-184 23:07:817  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:03  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 23:07:718  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:734  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:996  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:894  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 23:07:01  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 23:07:475  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 23:07:553  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:563  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:679  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:573  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:609  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:618  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:586  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:462  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-184 23:07:501  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:510  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-184 23:07:915  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: (//span[contains(text(),'Proceed to checkout')])[2]'
+2020-07-184 23:07:25  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:34  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: (//span)[1]]
+2020-07-184 23:07:745  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: (//span)[1]]
+2020-07-184 23:07:953  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:962  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (84cd935f4828d5c6606a34b6ee3fc82c)] -> xpath: //span[contains(text(),'Order history and details')]]
+2020-07-184 23:07:136  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Order history and details')]'
+2020-07-184 23:07:59  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:562  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //li/div[@class='product-container']]
+2020-07-184 23:07:486  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:500  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:724  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //i[@class='icon-plus']]
+2020-07-184 23:07:644  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-184 23:07:714  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-184 23:07:663  INFO MasterHelper:1281 - element found...$2.00
+2020-07-184 23:07:739  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:747  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:819  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-184 23:07:695  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:733  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:742  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:264  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-184 23:07:166  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-184 23:07:206  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:216  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-184 23:07:519  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: (//span[contains(text(),'Proceed to checkout')])[2]'
+2020-07-184 23:07:437  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:446  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: (//span)[1]]
+2020-07-184 23:07:888  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: (//span)[1]]
+2020-07-184 23:07:544  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:552  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (ff089608e9200c9cf1e4af496bd865d7)] -> xpath: //span[contains(text(),'Order history and details')]]
+2020-07-184 23:07:631  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Order history and details')]'
+2020-07-184 23:07:452  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (37d38ecfa6a11a2dc1fbff2a95af6fa0)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:628  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:638  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (37d38ecfa6a11a2dc1fbff2a95af6fa0)] -> xpath: (//span)[1]]
+2020-07-184 23:07:480  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (37d38ecfa6a11a2dc1fbff2a95af6fa0)] -> xpath: (//span)[1]]
+2020-07-184 23:07:376  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:388  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (37d38ecfa6a11a2dc1fbff2a95af6fa0)] -> xpath: //span[contains(text(),'Order history and details')]]
+2020-07-184 23:07:715  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Order history and details')]'
+2020-07-184 23:07:289  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (b5c7e72f002d1a8f46850b5e33b9511d)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-184 23:07:748  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:758  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (b5c7e72f002d1a8f46850b5e33b9511d)] -> xpath: (//span)[1]]
+2020-07-184 23:07:538  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (b5c7e72f002d1a8f46850b5e33b9511d)] -> xpath: (//span)[1]]
+2020-07-184 23:07:241  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-184 23:07:252  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (b5c7e72f002d1a8f46850b5e33b9511d)] -> xpath: //span[contains(text(),'Order history and details')]]
+2020-07-184 23:07:268  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Order history and details')]'
+2020-07-185 00:07:765  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (853b61fa8d8629d30021d867a1443083)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-185 00:07:31  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 00:07:81  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (853b61fa8d8629d30021d867a1443083)] -> xpath: (//span)[1]]
+2020-07-185 00:07:203  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (853b61fa8d8629d30021d867a1443083)] -> xpath: (//span)[1]]
+2020-07-185 00:07:925  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 00:07:933  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (853b61fa8d8629d30021d867a1443083)] -> xpath: //span[contains(text(),'Order history and details')]]
+2020-07-185 00:07:659  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Order history and details')]'
+2020-07-185 00:07:105  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-185 00:07:899  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //li/div[@class='product-container']]
+2020-07-185 00:07:598  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 00:07:611  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //i[@class='icon-plus']]
+2020-07-185 00:07:900  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //i[@class='icon-plus']]
+2020-07-185 00:07:892  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-185 00:07:72  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-185 00:07:259  INFO MasterHelper:1281 - element found...$2.00
+2020-07-185 00:07:344  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 00:07:353  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-185 00:07:458  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-185 00:07:386  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-185 00:07:427  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 00:07:440  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-185 00:07:209  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-185 00:07:30  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-185 00:07:72  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 00:07:82  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-185 00:07:540  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: (//span[contains(text(),'Proceed to checkout')])[2]'
+2020-07-185 00:07:486  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 00:07:495  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: (//span)[1]]
+2020-07-185 00:07:41  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: (//span)[1]]
+2020-07-185 00:07:746  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 00:07:754  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (b905abc60adb46245c6f693f2b34c2d8)] -> xpath: //span[contains(text(),'Order history and details')]]
+2020-07-185 00:07:828  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Order history and details')]'
+2020-07-185 00:07:805  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (954d6083f158690b7791f526957734ee)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-185 02:07:863  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //h1[contains (text(),'Authentication')]]
+2020-07-185 02:07:336  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //li/div[@class='product-container']]
+2020-07-185 02:07:824  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 02:07:857  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //i[@class='icon-plus']]
+2020-07-185 02:07:186  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //i[@class='icon-plus']]
+2020-07-185 02:07:141  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //button[@type='submit']/span[contains(text(),'Add to cart')]]
+2020-07-185 02:07:449  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //span[@class='ajax_cart_shipping_cost']]
+2020-07-185 02:07:109  INFO MasterHelper:1281 - element found...$2.00
+2020-07-185 02:07:240  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 02:07:252  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-185 02:07:381  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //span[@id='layer_cart_product_quantity']]
+2020-07-185 02:07:419  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-185 02:07:466  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 02:07:489  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-185 02:07:199  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //span[contains(text(),'Proceed to checkout')]]
+2020-07-185 02:07:736  INFO MasterHelper:839 - element is displayed..[[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-185 02:07:784  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 02:07:799  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: (//span[contains(text(),'Proceed to checkout')])[2]]
+2020-07-185 02:07:204  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: (//span[contains(text(),'Proceed to checkout')])[2]'
+2020-07-185 02:07:514  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 02:07:541  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: (//span)[1]]
+2020-07-185 02:07:24  INFO MasterHelper:968 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: (//span)[1]]
+2020-07-185 02:07:901  INFO MasterHelper:956 - window.scrollTo(arguments[0],arguments[1])
+2020-07-185 02:07:910  INFO MasterHelper:962 - [[ChromeDriver: chrome on WINDOWS (417a92c7d6b2a7ec3196132a388cf536)] -> xpath: //span[contains(text(),'Order history and details')]]
+2020-07-185 02:07:501  INFO MasterHelper:968 - Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Order history and details')]'

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression suit scenarios" verbose="1"
+	parallel="tests" thread-count="2" configfailurepolicy="continue">
+	<parameter name="browserName" value="Chrome">
+	</parameter>
+	<test name="RegTest" annotations="addProductdetail"
+		preserve-order="false">
+		<classes>
+			<!-- <class name="TestRunner.TestRunner"/> -->
+			<class name="com.Inspire_Automation.TestRunner.TestRunner" />
+		</classes>
+		<class name="com.Inspire_Automation.TestRunner.TestRunner" />
+	</classes>
+	</test>
+</suite>
+
+
+
+<!-- configfailurepolicy= "Skip/continue" -->

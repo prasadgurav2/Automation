@@ -1,0 +1,371 @@
+!SESSION 2020-07-03 02:28:09.308 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=10.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data F:\myframework -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-07-03 02:28:33.001
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-03 02:29:06.378
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\PRASAD-LT'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 02:37:48.968
+!MESSAGE The artifact info.cukes:cucumber-testng:pom:1.2.6 has been relocated to io.cucumber:cucumber-testng:pom:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 02:37:49.014
+!MESSAGE The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 02:39:06.028
+!MESSAGE The artifact info.cukes:cucumber-testng:pom:1.2.6 has been relocated to io.cucumber:cucumber-testng:pom:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 02:39:06.029
+!MESSAGE The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-07-03 02:41:08.542
+!MESSAGE Could not download sources for org.apache.poi:poi-ooxml-schemas:4.1.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:sources:4.1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:302)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.apache.poi:poi-ooxml-schemas:jar:sources:4.1.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-07-03 02:41:08.543
+!MESSAGE Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:sources:4.1.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-07-03 02:41:08.543
+!MESSAGE Missing org.apache.poi:poi-ooxml-schemas:jar:sources:4.1.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-07-03 02:41:37.672
+!MESSAGE Could not download javadoc for org.apache.poi:poi-ooxml-schemas:4.1.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:javadoc:4.1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:801)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:769)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:746)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:328)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:314)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:267)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:231)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:159)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:159)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.apache.poi:poi-ooxml-schemas:jar:javadoc:4.1.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-07-03 02:41:37.672
+!MESSAGE Could not resolve artifact org.apache.poi:poi-ooxml-schemas:jar:javadoc:4.1.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-07-03 02:41:37.672
+!MESSAGE Missing org.apache.poi:poi-ooxml-schemas:jar:javadoc:4.1.1
+
+!ENTRY org.testng.eclipse 4 4 2020-07-03 02:52:50.409
+!MESSAGE Error
+!STACK 0
+org.xml.sax.SAXParseException; systemId: http://testng.org/testng-1.0.dtd; lineNumber: 1; columnNumber: 2; The markup declarations contained or pointed to by the document type declaration must be well-formed.
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.scanDecls(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDTDScannerImpl.scanDTDExternalSubset(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.dispatch(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$DTDDriver.next(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(Unknown Source)
+	at java.xml/javax.xml.parsers.SAXParser.parse(Unknown Source)
+	at org.testng.eclipse.util.param.ParameterSolver.extractParameterValues(ParameterSolver.java:186)
+	at org.testng.eclipse.util.param.ParameterSolver.findParameterValues(ParameterSolver.java:158)
+	at org.testng.eclipse.util.param.ParameterSolver.solveParameters(ParameterSolver.java:67)
+	at org.testng.eclipse.ui.util.ConfigurationHelper.getLaunchSuites(ConfigurationHelper.java:436)
+	at org.testng.eclipse.launch.TestNGLaunchConfigurationDelegate.createVMRunner(TestNGLaunchConfigurationDelegate.java:315)
+	at org.testng.eclipse.launch.TestNGLaunchConfigurationDelegate.launchTypes(TestNGLaunchConfigurationDelegate.java:156)
+	at org.testng.eclipse.launch.TestNGLaunchConfigurationDelegate.launch(TestNGLaunchConfigurationDelegate.java:93)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:862)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:720)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1020)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$2.run(DebugUIPlugin.java:1234)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.testng.eclipse 1 0 2020-07-03 02:52:51.572
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\PRASAD-LT\OneDrive\Documents\Eclipse software\eclipse\configuration\org.eclipse.osgi\484\0\.cp\lib\testng-remote.jar F:\myframework\com.Auto.Frame\target\test-classes F:\myframework\com.Auto.Frame\target\classes C:\Users\PRASAD-LT\.m2\repository\junit\junit\4.12\junit-4.12.jar C:\Users\PRASAD-LT\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\PRASAD-LT\.m2\repository\junit\junit-dep\4.8.2\junit-dep-4.8.2.jar C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-junit\1.2.5\cucumber-junit-1.2.5.jar C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-core\1.2.5\cucumber-core-1.2.5.jar C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar C:\Users\PRASAD-LT\.m2\repository\io\qameta\allure\allure-cucumber-jvm\2.13.0\allure-cucumber-jvm-2.13.0.jar C:\Users\PRASAD-LT\.m2\repository\io\qameta\allure\allure-java-commons\2.13.0\allure-java-commons-2.13.0.jar C:\Users\PRASAD-LT\.m2\repository\io\qameta\allure\allure-model\2.13.0\allure-model-2.13.0.jar C:\Users\PRASAD-LT\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\tika\tika-core\1.20\tika-core-1.20.jar C:\Users\PRASAD-LT\.m2\repository\org\jooq\joor-java-8\0.9.10\joor-java-8-0.9.10.jar C:\Users\PRASAD-LT\.m2\repository\com\paulhammant\ngwebdriver\1.1.3\ngwebdriver-1.1.3.jar C:\Users\PRASAD-LT\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar C:\Users\PRASAD-LT\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar C:\Users\PRASAD-LT\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar C:\Users\PRASAD-LT\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar C:\Users\PRASAD-LT\.m2\repository\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar C:\Users\PRASAD-LT\.m2\repository\org\mongodb\mongodb-driver-core\3.0.4\mongodb-driver-core-3.0.4.jar C:\Users\PRASAD-LT\.m2\repository\com\aventstack\extentreports\4.0.9\extentreports-4.0.9.jar C:\Users\PRASAD-LT\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar C:\Users\PRASAD-LT\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar C:\Users\PRASAD-LT\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar C:\Users\PRASAD-LT\.m2\repository\com\vimalselvam\cucumber-extentsreport\3.0.2\cucumber-extentsreport-3.0.2.jar C:\Users\PRASAD-LT\.m2\repository\net\masterthought\cucumber-reporting\4.5.1\cucumber-reporting-4.5.1.jar C:\Users\PRASAD-LT\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar C:\Users\PRASAD-LT\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar C:\Users\PRASAD-LT\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\velocity\velocity\1.7\velocity-1.7.jar C:\Users\PRASAD-LT\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar C:\Users\PRASAD-LT\.m2\repository\commons-lang\commons-lang\2.4\commons-lang-2.4.jar C:\Users\PRASAD-LT\.m2\repository\velocity-tools\velocity-tools\1.4\velocity-tools-1.4.jar C:\Users\PRASAD-LT\.m2\repository\joda-time\joda-time\2.10.1\joda-time-2.10.1.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar C:\Users\PRASAD-LT\.m2\repository\org\codehaus\plexus\plexus-utils\3.1.1\plexus-utils-3.1.1.jar C:\Users\PRASAD-LT\.m2\repository\com\googlecode\owasp-java-html-sanitizer\owasp-java-html-sanitizer\20181114.1\owasp-java-html-sanitizer-20181114.1.jar C:\Users\PRASAD-LT\.m2\repository\commons-configuration\commons-configuration\1.10\commons-configuration-1.10.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\poi\poi\4.1.1\poi-4.1.1.jar C:\Users\PRASAD-LT\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\poi\poi-ooxml\4.1.1\poi-ooxml-4.1.1.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.1\poi-ooxml-schemas-4.1.1.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-compress\1.19\commons-compress-1.19.jar C:\Users\PRASAD-LT\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar C:\Users\PRASAD-LT\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar C:\Users\PRASAD-LT\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar C:\Users\PRASAD-LT\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar C:\Users\PRASAD-LT\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar C:\Users\PRASAD-LT\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar C:\Users\PRASAD-LT\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar C:\Users\PRASAD-LT\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar C:\Users\PRASAD-LT\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar C:\Users\PRASAD-LT\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar C:\Users\PRASAD-LT\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar C:\Users\PRASAD-LT\.m2\repository\org\testng\testng\6.9.10\testng-6.9.10.jar C:\Users\PRASAD-LT\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\PRASAD-LT\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar C:\Users\PRASAD-LT\.m2\repository\io\cucumber\cucumber-core\1.2.6\cucumber-core-1.2.6.jar C:\Users\PRASAD-LT\.m2\repository\io\cucumber\cucumber-java\1.2.6\cucumber-java-1.2.6.jar C:\Users\PRASAD-LT\.m2\repository\io\cucumber\cucumber-jvm-deps\1.0.6\cucumber-jvm-deps-1.0.6.jar C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-testng\1.2.5\cucumber-testng-1.2.5.jar C:\Users\PRASAD-LT\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-server\3.141.59\selenium-server-3.141.59.jar C:\Users\PRASAD-LT\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.4.12.v20180830\jetty-repacked-9.4.12.v20180830.jar C:\Users\PRASAD-LT\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar C:\Users\PRASAD-LT\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 62057 -protocol json -d F:\myframework\com.Auto.Frame\test-output C:\Users\PRASAD~1\AppData\Local\Temp\testng-eclipse-2131878748\testng-customsuite.xml
+java -ea -classpath C:\Users\PRASAD-LT\OneDrive\Documents\Eclipse software\eclipse\configuration\org.eclipse.osgi\484\0\.cp\lib\testng-remote.jar:F:\myframework\com.Auto.Frame\target\test-classes:F:\myframework\com.Auto.Frame\target\classes:C:\Users\PRASAD-LT\.m2\repository\junit\junit\4.12\junit-4.12.jar:C:\Users\PRASAD-LT\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\PRASAD-LT\.m2\repository\junit\junit-dep\4.8.2\junit-dep-4.8.2.jar:C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-junit\1.2.5\cucumber-junit-1.2.5.jar:C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-core\1.2.5\cucumber-core-1.2.5.jar:C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar:C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar:C:\Users\PRASAD-LT\.m2\repository\io\qameta\allure\allure-cucumber-jvm\2.13.0\allure-cucumber-jvm-2.13.0.jar:C:\Users\PRASAD-LT\.m2\repository\io\qameta\allure\allure-java-commons\2.13.0\allure-java-commons-2.13.0.jar:C:\Users\PRASAD-LT\.m2\repository\io\qameta\allure\allure-model\2.13.0\allure-model-2.13.0.jar:C:\Users\PRASAD-LT\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\tika\tika-core\1.20\tika-core-1.20.jar:C:\Users\PRASAD-LT\.m2\repository\org\jooq\joor-java-8\0.9.10\joor-java-8-0.9.10.jar:C:\Users\PRASAD-LT\.m2\repository\com\paulhammant\ngwebdriver\1.1.3\ngwebdriver-1.1.3.jar:C:\Users\PRASAD-LT\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar:C:\Users\PRASAD-LT\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar:C:\Users\PRASAD-LT\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar:C:\Users\PRASAD-LT\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar:C:\Users\PRASAD-LT\.m2\repository\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar:C:\Users\PRASAD-LT\.m2\repository\org\mongodb\mongodb-driver-core\3.0.4\mongodb-driver-core-3.0.4.jar:C:\Users\PRASAD-LT\.m2\repository\com\aventstack\extentreports\4.0.9\extentreports-4.0.9.jar:C:\Users\PRASAD-LT\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar:C:\Users\PRASAD-LT\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar:C:\Users\PRASAD-LT\.m2\repository\com\google\code\gson\gson\2.8.5\gson-2.8.5.jar:C:\Users\PRASAD-LT\.m2\repository\com\vimalselvam\cucumber-extentsreport\3.0.2\cucumber-extentsreport-3.0.2.jar:C:\Users\PRASAD-LT\.m2\repository\net\masterthought\cucumber-reporting\4.5.1\cucumber-reporting-4.5.1.jar:C:\Users\PRASAD-LT\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar:C:\Users\PRASAD-LT\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar:C:\Users\PRASAD-LT\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\velocity\velocity\1.7\velocity-1.7.jar:C:\Users\PRASAD-LT\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar:C:\Users\PRASAD-LT\.m2\repository\commons-lang\commons-lang\2.4\commons-lang-2.4.jar:C:\Users\PRASAD-LT\.m2\repository\velocity-tools\velocity-tools\1.4\velocity-tools-1.4.jar:C:\Users\PRASAD-LT\.m2\repository\joda-time\joda-time\2.10.1\joda-time-2.10.1.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar:C:\Users\PRASAD-LT\.m2\repository\org\codehaus\plexus\plexus-utils\3.1.1\plexus-utils-3.1.1.jar:C:\Users\PRASAD-LT\.m2\repository\com\googlecode\owasp-java-html-sanitizer\owasp-java-html-sanitizer\20181114.1\owasp-java-html-sanitizer-20181114.1.jar:C:\Users\PRASAD-LT\.m2\repository\commons-configuration\commons-configuration\1.10\commons-configuration-1.10.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\poi\poi\4.1.1\poi-4.1.1.jar:C:\Users\PRASAD-LT\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\poi\poi-ooxml\4.1.1\poi-ooxml-4.1.1.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.1\poi-ooxml-schemas-4.1.1.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-compress\1.19\commons-compress-1.19.jar:C:\Users\PRASAD-LT\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar:C:\Users\PRASAD-LT\.m2\repository\commons-io\commons-io\2.6\commons-io-2.6.jar:C:\Users\PRASAD-LT\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar:C:\Users\PRASAD-LT\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar:C:\Users\PRASAD-LT\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar:C:\Users\PRASAD-LT\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar:C:\Users\PRASAD-LT\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar:C:\Users\PRASAD-LT\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar:C:\Users\PRASAD-LT\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar:C:\Users\PRASAD-LT\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar:C:\Users\PRASAD-LT\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar:C:\Users\PRASAD-LT\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar:C:\Users\PRASAD-LT\.m2\repository\org\testng\testng\6.9.10\testng-6.9.10.jar:C:\Users\PRASAD-LT\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\PRASAD-LT\.m2\repository\org\beanshell\bsh\2.0b4\bsh-2.0b4.jar:C:\Users\PRASAD-LT\.m2\repository\io\cucumber\cucumber-core\1.2.6\cucumber-core-1.2.6.jar:C:\Users\PRASAD-LT\.m2\repository\io\cucumber\cucumber-java\1.2.6\cucumber-java-1.2.6.jar:C:\Users\PRASAD-LT\.m2\repository\io\cucumber\cucumber-jvm-deps\1.0.6\cucumber-jvm-deps-1.0.6.jar:C:\Users\PRASAD-LT\.m2\repository\info\cukes\cucumber-testng\1.2.5\cucumber-testng-1.2.5.jar:C:\Users\PRASAD-LT\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\selenium-server\3.141.59\selenium-server-3.141.59.jar:C:\Users\PRASAD-LT\.m2\repository\net\jcip\jcip-annotations\1.0\jcip-annotations-1.0.jar:C:\Users\PRASAD-LT\.m2\repository\org\seleniumhq\selenium\jetty-repacked\9.4.12.v20180830\jetty-repacked-9.4.12.v20180830.jar:C:\Users\PRASAD-LT\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar:C:\Users\PRASAD-LT\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar org.testng.remote.RemoteTestNG -serport 62057 -protocol json -d F:\myframework\com.Auto.Frame\test-output C:\Users\PRASAD~1\AppData\Local\Temp\testng-eclipse-2131878748\testng-customsuite.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-07-03 03:01:01.954
+!MESSAGE Launch configuration TestRunner references closed project com.Auto.Frame
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration TestRunner references closed project com.Auto.Frame
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2020-07-03 03:01:01.954
+!MESSAGE Launch configuration TestRunner references closed project com.Auto.Frame
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-07-03 03:01:01.981
+!MESSAGE Launch configuration TestRunner references closed project com.Auto.Frame
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration TestRunner references closed project com.Auto.Frame
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2020-07-03 03:01:01.982
+!MESSAGE Launch configuration TestRunner references closed project com.Auto.Frame
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-07-03 03:01:01.993
+!MESSAGE Launch configuration TestRunner references closed project com.Auto.Frame
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration TestRunner references closed project com.Auto.Frame
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1710)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 124 2020-07-03 03:01:01.994
+!MESSAGE Launch configuration TestRunner references closed project com.Auto.Frame
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:05:48.426
+!MESSAGE The artifact info.cukes:cucumber-testng:pom:1.2.6 has been relocated to io.cucumber:cucumber-testng:pom:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:05:48.427
+!MESSAGE The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:05:51.550
+!MESSAGE The artifact info.cukes:cucumber-testng:pom:1.2.6 has been relocated to io.cucumber:cucumber-testng:pom:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:05:51.551
+!MESSAGE The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2020-07-03 03:11:06.060
+!MESSAGE HTTP Remote File Permanently Removed: http://beust.com/eclipse/compositeContent.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpComponents connection error response code 410.
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:276)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.ecf.identity 4 0 2020-07-03 03:11:06.060
+!MESSAGE HttpComponents connection error response code 410.
+
+!ENTRY org.eclipse.equinox.security 1 0 2020-07-03 03:13:13.787
+!MESSAGE New keyring password generated. 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:17:10.351
+!MESSAGE The artifact info.cukes:cucumber-testng:pom:1.2.6 has been relocated to io.cucumber:cucumber-testng:pom:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:17:10.351
+!MESSAGE The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:17:14.622
+!MESSAGE The artifact info.cukes:cucumber-testng:pom:1.2.6 has been relocated to io.cucumber:cucumber-testng:pom:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:17:14.622
+!MESSAGE The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:18:49.801
+!MESSAGE The artifact info.cukes:cucumber-testng:pom:1.2.6 has been relocated to io.cucumber:cucumber-testng:pom:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:18:49.801
+!MESSAGE The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:18:58.133
+!MESSAGE The artifact info.cukes:cucumber-testng:pom:1.2.6 has been relocated to io.cucumber:cucumber-testng:pom:1.2.6
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-03 03:18:58.134
+!MESSAGE The artifact info.cukes:cucumber-java:jar:1.2.6 has been relocated to io.cucumber:cucumber-java:jar:1.2.6
+!SESSION 2020-07-03 03:28:25.282 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=10.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/F:/myframework/ -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-07-03 03:28:42.541
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-03 03:29:12.642
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\PRASAD-LT'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2020-07-03 03:52:51.708
+!MESSAGE HTTP Remote File Permanently Removed: http://beust.com/eclipse/compositeContent.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpComponents connection error response code 410.
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:276)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.ecf.identity 4 0 2020-07-03 03:52:51.830
+!MESSAGE HttpComponents connection error response code 410.
+!SESSION 2020-07-03 04:25:21.972 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=10.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-07-03 04:25:40.690
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2020-07-03 04:27:51.551 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=10.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-07-03 04:27:58.222
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-03 04:28:14.595
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\PRASAD-LT'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2020-07-03 04:35:00.085
+!MESSAGE HTTP Remote File Permanently Removed: http://beust.com/eclipse/compositeContent.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpComponents connection error response code 410.
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:276)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.ecf.identity 4 0 2020-07-03 04:35:00.101
+!MESSAGE HttpComponents connection error response code 410.
+!SESSION 2020-07-03 05:01:31.027 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=10.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-07-03 05:01:57.000
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-03 05:02:40.361
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\PRASAD-LT'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 4 2 2020-07-03 05:02:55.516
+!MESSAGE An internal error occurred during: "Initializing Java Tooling".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.m2e.jdt.internal.MavenClasspathContainerInitializer.initialize(MavenClasspathContainerInitializer.java:46)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeContainer(JavaModelManager.java:3195)
+	at org.eclipse.jdt.internal.core.JavaModelManager$10.run(JavaModelManager.java:3079)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2295)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2322)
+	at org.eclipse.jdt.internal.core.JavaModelManager.initializeAllContainers(JavaModelManager.java:3141)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getClasspathContainer(JavaModelManager.java:2111)
+	at org.eclipse.jdt.core.JavaCore.initializeAfterLoad(JavaCore.java:4484)
+	at org.eclipse.jdt.internal.ui.InitializeAfterLoadJob$RealJob.run(InitializeAfterLoadJob.java:39)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2020-07-03 05:02:57.185
+!MESSAGE An internal error occurred during: "Repository registry initialization".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.m2e.core.internal.MavenPluginActivator.getVersion(MavenPluginActivator.java:416)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.createExecutionRequest(MavenImpl.java:249)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.createExecutionRequest(MavenImpl.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.getMirrors(MavenImpl.java:1194)
+	at org.eclipse.m2e.core.internal.repository.RepositoryRegistry.updateRegistry(RepositoryRegistry.java:224)
+	at org.eclipse.m2e.core.internal.repository.RepositoryRegistryUpdateJob.run(RepositoryRegistryUpdateJob.java:47)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
