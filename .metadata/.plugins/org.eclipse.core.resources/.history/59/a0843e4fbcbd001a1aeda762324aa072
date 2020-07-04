@@ -23,14 +23,14 @@ import com.Automation.Util.TestBase;
 
 
 	@CucumberOptions(
-			features = {"./src\\main\\java\\com\\Automation\\Feature"},
+			features = {"F:\\myframework\\com.Auto.Frame\\src\\main\\java\\com\\Automation\\Feature"},
 			glue={"com.Automation.StepDef"},
 
 			plugin= {"pretty:STDOUT",
-					"html:./src\\main\\resources\\Reports\\cucumber-pretty", 
-					"json:./src\\main\\resources\\Reports\\Cucumber-json\\cucumber.json",
-					"junit:./src\\main\\resources\\Reports\\Junit_Report\\cucumber.xml",
-					"com.cucumber.listener.ExtentCucumberFormatter:./src\\main\\resources\\Reports\\Cucumber-extent\\ExtentReport.html"},
+					"html:F:\\myframework\\com.Auto.Frame\\src\\main\\resources\\Reports\\cucumber-pretty", 
+					"json:F:\\myframework\\com.Auto.Frame\\src\\main\\resources\\Reports\\Cucumber-json\\cucumber.json",
+					"junit:F:\\myframework\\com.Auto.Frame\\src\\main\\resources\\Reports\\Junit_Report\\cucumber.xml",
+					"com.cucumber.listener.ExtentCucumberFormatter:F:\\myframework\\com.Auto.Frame\\src\\main\\resources\\Reports\\Cucumber-extent\\ExtentReport.html"},
 			monochrome = true, //display the console output in a proper readable format
 			strict = false, //it will check if any step is not defined in step definition file
 			dryRun = false //to check the mapping is proper between feature file and step def file
