@@ -9,8 +9,6 @@ import java.util.Calendar;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
- 
-
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
@@ -25,8 +23,6 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.cucumber.listener.Reporter;
 import com.google.common.io.Files;
 import com.paulhammant.ngwebdriver.NgWebDriver;
-
- 
 
 import cucumber.api.Scenario;
 
@@ -58,8 +54,7 @@ public class TestBase {
 			e.printStackTrace();
 		}
 	}
-	
-	  
+
 //	  public void initialization(String portNO, String appURL) throws
 //	  InterruptedException, MalformedURLException { if
 //	  (portNO.equalsIgnoreCase("4545")) {
@@ -114,25 +109,24 @@ public class TestBase {
 //	  TimeUnit.SECONDS); }
 //	  
 //	  }
-	 
 
-	//@BeforeTest
+	// @BeforeTest
 	public static void Parameter_initialization(String browserName) {
 		// String browserName = prop.getProperty("browser");
 		System.out.println("prop value::   " + browserName);
 
 		if (browserName.equals("Chrome")) {
 			System.out.println("This is testing");
-			System.setProperty("webdriver.chrome.driver","./src\\main\\java\\Driver\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "./src\\main\\java\\Driver\\chromedriver.exe");
 
 			driver = new ChromeDriver();
 			JavascriptExecutor jsDriver = (JavascriptExecutor) driver;
 			ngDriver = new NgWebDriver(jsDriver);
 
 		} else if (browserName.equals("FF")) {
-			System.setProperty("webdriver.gecko.driver","./src\\main\\java\\Driver\\geckodriver.exe");
+			System.setProperty("webdriver.gecko.driver", "./src\\main\\java\\Driver\\geckodriver.exe");
 			driver = new FirefoxDriver();
-			
+
 		}
 
 		driver.manage().window().maximize();
@@ -150,7 +144,7 @@ public class TestBase {
 		System.out.println("prop value::   " + prop.getProperty("browser"));
 
 		if (browserName.equals("Chrome")) {
-			System.setProperty("webdriver.chrome.driver","./src\\main\\java\\Driver\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "./src\\main\\java\\Driver\\chromedriver.exe");
 			System.out.println("This is testing");
 			driver = new ChromeDriver();
 			JavascriptExecutor jsDriver = (JavascriptExecutor) driver;
@@ -188,7 +182,8 @@ public class TestBase {
 			String TimeStamp = new SimpleDateFormat("yyyyMMDD_HHMMSS").format(Calendar.getInstance().getTime());
 			try {
 
-				File destinationPath = new File(System.getProperty("user.dir")+ "\\src\\main\\resources\\Defect_ScreenShots\\" + scenario.getName() + TimeStamp + ".png");
+				File destinationPath = new File(
+						"./src\\main\\resources\\Defect_ScreenShots\\" + scenario.getName() + TimeStamp + ".png");
 				Files.copy(scrFile, destinationPath);
 				Reporter.addScreenCaptureFromPath(destinationPath.toString());
 
